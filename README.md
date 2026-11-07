@@ -17,25 +17,9 @@ Let’s see whether curiosity wins or whether my talent for doomscrolling someho
 ## Things I’ve built
 
 ### 🦊 Fritzo
-
-A private-source, offline Windows voice companion inspired by a real radiology workflow.
-
-I took the project from a rough idea to an installable pilot: product decisions, UX, privacy boundaries, testing, visual direction and many rounds of “okay, but make it simpler.”
-The application stays private. I’m documenting the product journey, lessons and AI-assisted development process as a public case study.
-
 ### 🧼 A website for my mum’s cleaning business
-
-My first attempt at turning a real small business into a clear and useful digital presence.
-No imaginary startup. No fake client brief. Just something a real person needed.
-
 ### 🎈 A website for a children’s playroom
 
-A more playful project focused on visual identity, atmosphere and making a local business feel alive online.
-
-## How I build
-
-I use AI as a build partner—not as a substitute for thinking.
-I bring the problem, product direction, creative decisions, testing and the stubbornness to keep going until the result actually feels right.
 
 I’m currently learning more about:
 
