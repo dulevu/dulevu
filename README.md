@@ -2,7 +2,7 @@
 
 First of all, thanks for somehow landing on my profile. I genuinely mean that.
 
-I’ve spent roughly 15 years somewhere around the internet—marketing, growing profiles, managing social media and learning what makes something spread naturally instead of feeling forced.
+I’ve spent roughly 15 years somewhere around the internet - marketing, growing profiles, managing social media and learning what makes something spread naturally instead of feeling forced.
 The funny part? Most of that work still lives on private accounts, forgotten projects and, probably, an old dusty ThinkPad somewhere.
 
 I became seriously interested in AI when I started using LLMs for more than random questions. They helped me study toward and complete several European qualifications, navigate moving to another country and prepare for opportunities that eventually led to two jobs abroad.
