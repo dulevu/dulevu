@@ -11,7 +11,7 @@ That was the moment I realized something: even though the process was powered by
 So this profile is me starting again, more publicly this time.
 I’m learning the technical side from the ground up, building real projects with AI and finally taking some of my work off the dusty ThinkPad so people can actually see it.
 
-Let’s see whether curiosity wins — or whether my talent for doomscrolling somehow defeats another perfectly good plan.
+Let’s see whether curiosity wins or whether my talent for doomscrolling somehow defeats another perfectly good plan.
 
 
 ## Things I’ve built
